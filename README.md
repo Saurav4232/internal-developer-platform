@@ -1,4 +1,4 @@
-                                                                                                     📘 Internal Developer Platform (IDP)
+                                             📘 Internal Developer Platform (IDP)
 1. Platform Goal
   This Internal Developer Platform (IDP) exists to standardize, simplify, and secure how applications are deployed and infrastructure is provisioned within the organization.
   The platform’s goal is to:
