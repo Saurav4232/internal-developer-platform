@@ -1,0 +1,25 @@
+apiVersion: platform.internal/v1
+kind: ApplicationDeployment
+
+metadata:
+  name:
+  owner:
+  cost_center:
+
+spec:
+  application:
+    language:
+    runtime:
+    container_port:
+
+  environment:
+    name:
+    replicas:
+
+  resources:
+    cpu:
+    memory:
+
+  deployment:
+    strategy:
+
